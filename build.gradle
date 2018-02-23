@@ -21,7 +21,7 @@ jar {
 	baseName = 'prime'
 	version = '0.1.0'
 	manifest{
-		attributes 'Main-Class' ; 'App'
+		attributes 'Main-Class' : 'App'
 	}
 }
 
